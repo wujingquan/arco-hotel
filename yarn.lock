@@ -274,7 +274,7 @@
   dependencies:
     color "^3.1.3"
 
-"@arco-design/web-react@^2.32.2":
+"@arco-design/web-react@^2.53.0":
   version "2.53.0"
   resolved "https://registry.npmmirror.com/@arco-design/web-react/-/web-react-2.53.0.tgz#59cd304b038a01c68ae78d99f63ab8bb2ae97d0a"
   integrity sha512-tT+VN+d7r1hWKXSLc0RKwcIh6ntOHebRrMoJ7W5rmJ4l6QzhneTcC4YLP9NqwmhDhdWRfCET2XhVh25hRV3Pmw==
